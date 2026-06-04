@@ -1,0 +1,28 @@
+{
+  "id": "safety-tools",
+  "title": "Safety Tools",
+  "description": "Adiciona botões rápidos de ferramentas de segurança para comunicação anônima com o Mestre.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14.363",
+    "verified": "14.363"
+  },
+  "authors": [
+    {
+      "name": "Presuntjnho"
+    }
+  ],
+  "esmodules": [
+    "scripts/safety-tools.js"
+  ],
+  "styles": [
+    "styles/safety-tools.css"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ]
+}
